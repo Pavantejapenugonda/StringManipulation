@@ -1,1 +1,3 @@
 __pycache__/
+# ignore the virtual environment created
+/string_manipulation_venv
