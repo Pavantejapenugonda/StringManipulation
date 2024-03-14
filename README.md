@@ -3,10 +3,10 @@ Description : It's a python script to mimic the cd operations on the command pro
 
 # 1. Environment set up
 Make sure to use Python installed and version >= 3.8.0                                                                                                                       
-Create a virtual environment with name of StringManipulation using below command                                                                                             
-Command --> python -m venv StringManipulation                                                                                                                                
+Create a virtual environment with name of string_manipulation_venv using below command                                                                                       
+Command --> python -m venv string_manipulation_venv                                                                                                                          
 Activate the virtual environment and install requirements.txt                                                                                                                
-Command --> cd StringManipulation\Scripts\activate                                                                                                                           
+Command --> cd string_manipulation_venv\Scripts\activate                                                                                                                     
 Go to the main folder                                                                                                                                                        
 Command --> cd ../..                                                                                                                                                        
 Install the required libraries                                                                                                                                               
